@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:2:1-56:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/6f0808b2b1d3baa6a7425a7141b16604/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/41879cc506b457417ed630e3296edf9d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/5235d30e220d02883ebc81eeaf248a29/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/4569e74919d843fe6f025864dd375cd5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/dbcb8d2f66eb4021f4e4e377eb05c77d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/14f909e56fe6215830c677dbe998ae30/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/2e1028d3a91300a2073f9167e8faba22/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:4:5-35
+		INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:8:5-9:39
+INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:8:5-9:39
+INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:8:5-9:39
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/6f0808b2b1d3baa6a7425a7141b16604/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/6f0808b2b1d3baa6a7425a7141b16604/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/41879cc506b457417ed630e3296edf9d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/41879cc506b457417ed630e3296edf9d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/5235d30e220d02883ebc81eeaf248a29/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/5235d30e220d02883ebc81eeaf248a29/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/4569e74919d843fe6f025864dd375cd5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/4569e74919d843fe6f025864dd375cd5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/dbcb8d2f66eb4021f4e4e377eb05c77d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/dbcb8d2f66eb4021f4e4e377eb05c77d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/14f909e56fe6215830c677dbe998ae30/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/14f909e56fe6215830c677dbe998ae30/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/2e1028d3a91300a2073f9167e8faba22/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/2e1028d3a91300a2073f9167e8faba22/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:8:5-9:39
+INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:8:5-9:39
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/6f0808b2b1d3baa6a7425a7141b16604/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:8:5-9:39
+		INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml
+	tools:ignore
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:9:9-36
+	android:minSdkVersion
+		INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:8:5-9:39
+		INJECTED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:12:5-54:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/6f0808b2b1d3baa6a7425a7141b16604/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/6f0808b2b1d3baa6a7425a7141b16604/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/41879cc506b457417ed630e3296edf9d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/41879cc506b457417ed630e3296edf9d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/5235d30e220d02883ebc81eeaf248a29/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/5235d30e220d02883ebc81eeaf248a29/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/4569e74919d843fe6f025864dd375cd5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/4569e74919d843fe6f025864dd375cd5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/dbcb8d2f66eb4021f4e4e377eb05c77d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/dbcb8d2f66eb4021f4e4e377eb05c77d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/14f909e56fe6215830c677dbe998ae30/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/14f909e56fe6215830c677dbe998ae30/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/2e1028d3a91300a2073f9167e8faba22/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/2e1028d3a91300a2073f9167e8faba22/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:16:9-41
+	android:allowClearUserData
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:14:9-42
+	android:icon
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:17:9-79
+activity#com.raddstudios.xpmb.XPMB_Main
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:18:9-32:20
+	android:screenOrientation
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:23:13-50
+	android:label
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:22:13-45
+	android:excludeFromRecents
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:21:13-46
+	tools:ignore
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:24:13-44
+	android:configChanges
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:20:13-63
+	android:name
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:19:13-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:25:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.HOME
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:28:17-73
+	android:name
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:28:27-70
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:29:27-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:30:27-73
+activity#com.raddstudios.xpmb.XPMB_Submenu_GBA
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:33:9-43:20
+	android:screenOrientation
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:37:13-50
+	android:excludeFromRecents
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:36:13-46
+	tools:ignore
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:38:13-44
+	android:configChanges
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:35:13-63
+	android:name
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:34:13-44
+intent-filter#category:name:android.intent.category.DEFAULT
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:39:13-42:29
+activity#com.raddstudios.xpmb.XPMB_Submenu_App
+ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:44:9-53:20
+	android:screenOrientation
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:48:13-50
+	android:excludeFromRecents
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:47:13-46
+	tools:ignore
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:49:13-44
+	android:configChanges
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:46:13-63
+	android:name
+		ADDED from /Users/rajeshsingh/src/other/XPMB/app/src/main/AndroidManifest.xml:45:13-44
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/6f0808b2b1d3baa6a7425a7141b16604/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/41879cc506b457417ed630e3296edf9d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/41879cc506b457417ed630e3296edf9d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/5235d30e220d02883ebc81eeaf248a29/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/5235d30e220d02883ebc81eeaf248a29/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/4569e74919d843fe6f025864dd375cd5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/4569e74919d843fe6f025864dd375cd5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/dbcb8d2f66eb4021f4e4e377eb05c77d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/dbcb8d2f66eb4021f4e4e377eb05c77d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/14f909e56fe6215830c677dbe998ae30/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/14f909e56fe6215830c677dbe998ae30/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/6f0808b2b1d3baa6a7425a7141b16604/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/6f0808b2b1d3baa6a7425a7141b16604/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/2e1028d3a91300a2073f9167e8faba22/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/2e1028d3a91300a2073f9167e8faba22/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/rajeshsingh/.gradle/caches/transforms-2/files-2.1/2e1028d3a91300a2073f9167e8faba22/AndroidManifest.xml:26:13-58

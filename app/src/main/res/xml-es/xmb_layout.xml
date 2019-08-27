@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xpmbroot>
+
+    <item
+        id="Ajustes"
+        icon="ui_xmb_settings">
+        <subitem
+            id="Ajustes del sistema"
+            exec="com.android.settings/.Settings"
+            icon="ui_xmb_settings_system"
+            type="exec" />
+    </item>
+    <item
+        id="Fotos"
+        icon="ui_xmb_photo">
+        <subitem
+            id="Cámara"
+            exec="com.android.gallery3d/com.android.camera.CameraLauncher"
+            icon="ui_xmb_photo_camera"
+            type="exec" />
+        <subitem
+            id="Memoria externa"
+            icon="ui_xmb_external_memory" />
+    </item>
+    <item
+        id="Música"
+        icon="ui_xmb_music">
+        <subitem
+            id="TrackID"
+            exec="com.sonyericsson.trackid/.activity.WidgetHandlerActivity"
+            icon="ui_xmb_trackid"
+            type="exec" />
+        <subitem
+            id="Memoria externa"
+            icon="ui_xmb_external_memory" />
+    </item>
+    <item
+        id="Video"
+        icon="ui_xmb_video">
+        <subitem
+            id="Memoria externa"
+            icon="ui_xmb_external_memory" />
+    </item>
+    <item
+        id="Juegos"
+        icon="ui_xmb_games">
+        <subitem
+            id="Nintendo Entertainment System"
+            icon="ui_xmb_game_folder" />
+        <subitem
+            id="Super Nintendo"
+            icon="ui_xmb_game_folder" />
+        <subitem
+            id="Gameboy Advance"
+            submenu="XPMB_Submenu_GBA"
+            icon="ui_xmb_game_folder"
+            type="submenu" />
+        <subitem
+            id="NeoGeo Arcade"
+            icon="ui_xmb_game_folder" />
+    </item>
+    <item
+        id="Web"
+        icon="ui_xmb_web">
+        <subitem
+            id="Navegador web"
+            exec="com.android.browser/.BrowserActivity"
+            icon="ui_xmb_web_browser"
+            type="exec" />
+        <subitem
+            id="Búsqueda por internet"
+            exec="com.google.android.googlequicksearchbox/.SearchActivity"
+            icon="ui_xmb_web_search"
+            type="exec" />
+    </item>
+    <item
+        id="Aplicaciones"
+        icon="ui_xmb_apps">
+        <subitem
+            id="Aplicaciones instaladas"
+            submenu="XPMB_Submenu_App"
+            icon="ui_xmb_apps_installed"
+            type="submenu" >
+        </subitem>
+    </item>
+
+</xpmbroot>
